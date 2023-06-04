@@ -1,6 +1,6 @@
 # Clothing
 Clothing is an sample e-commerce platform for selling clothing and accessories. It provides a range of features for both customers and administrators, including browsing products, adding items to a shopping cart.
-It is built with React, Redux, Firebase. 
+It is built with React, Firebase. 
 
 ## Features
 - Browse and search for clothing items and accessories
