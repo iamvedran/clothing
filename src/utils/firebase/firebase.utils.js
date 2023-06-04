@@ -24,7 +24,7 @@ import {
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyA1GT2CSSR5rv7JnhhkEaQOngrb5AFnaIg",
+    apiKey: "secret-key",
     authDomain: "crwn-db-db65d.firebaseapp.com",
     databaseURL: "https://crwn-db-db65d.firebaseio.com",
     projectId: "crwn-db-db65d",
